@@ -1,0 +1,12 @@
+PyQt5
+pyqt-tools
+SpeechRecognition
+pyttsx3
+sqlite3
+ctypes
+pywin32
+pypiwin32
+pyaudio
+https://github.com/Paradoxis/Windows-Sound-Manager/blob/master/sound.py
+https://github.com/Paradoxis/Windows-Sound-Manager/blob/master/keyboard.py
+pyinstaller
